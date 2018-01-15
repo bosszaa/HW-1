@@ -1,8 +1,8 @@
-"# HW-1" 
+Ôªø"# HW-1" 
 
-echo "# HW-1" >> README.md //‡¢’¬π¢ÈÕ§«“¡ 
-git init // √È“ß repository ‡ª≈Ë“
-git add README.md //‡µ√’¬¡‰ø≈Ï∑’Ë®–commit À√◊Õ upload ¢÷Èπ ŸË git
-git commit -m "first commit" //∫—π∑÷°‚§È¥∫π git
-git remote add origin https://github.com/bosszaa/HW-1.git //add url ¢Õß server
-git push -u origin master //Õ—æ¢ÈÕ¡Ÿ≈¢÷Èπ‰ª∫π git
+echo "# HW-1" >> README.md //‡πÄ‡∏Ç‡∏µ‡∏¢‡∏ô‡∏Ç‡πâ‡∏≠‡∏Ñ‡∏ß‡∏≤‡∏° 
+git init //‡∏™‡∏£‡πâ‡∏≤‡∏á repository ‡πÄ‡∏õ‡∏•‡πà‡∏≤
+git add README.md //‡πÄ‡∏ï‡∏£‡∏µ‡∏¢‡∏°‡πÑ‡∏ü‡∏•‡πå‡∏ó‡∏µ‡πà‡∏à‡∏∞commit ‡∏´‡∏£‡∏∑‡∏≠ upload ‡∏Ç‡∏∂‡πâ‡∏ô‡∏™‡∏π‡πà git
+git commit -m "first commit" //‡∏ö‡∏±‡∏ô‡∏ó‡∏∂‡∏Å‡πÇ‡∏Ñ‡πâ‡∏î‡∏ö‡∏ô git
+git remote add origin https://github.com/bosszaa/HW-1.git //add url ‡∏Ç‡∏≠‡∏á server
+git push -u origin master //‡∏≠‡∏±‡∏û‡∏Ç‡πâ‡∏≠‡∏°‡∏π‡∏•‡∏Ç‡∏∂‡πâ‡∏ô‡πÑ‡∏õ‡∏ö‡∏ô git

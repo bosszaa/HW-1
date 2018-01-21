@@ -1,24 +1,24 @@
 ﻿## Recovery
-..*git checkout test.txt discard edit
-..*git reset HEAD test.txt discard add
-..*git reset --soft "HEAD^" discard commit
+* git checkout test.txt discard edit
+* git reset HEAD test.txt discard add
+* git reset --soft "HEAD^" discard commit
 ## Stash
-..*git add .
-..*git stash (hide your update)
-..*git pull
-..*git stash pop (recover file)
-..*git add .
-..*git commit -m "..."
-..*git push
+* git add .
+* git stash (hide your update)
+* git pull
+* git stash pop (recover file)
+* git add .
+* git commit -m "..."
+* git push
 
 ## git branch
-..*git branch -a (list branch)
-..*git branch dev (create branch)
-..*git checkout dev (switch to branch)
+* git branch -a (list branch)
+* git branch dev (create branch)
+* git checkout dev (switch to branch)
 
-..*git checkout -b new (create+switch to new branch)
+* git checkout -b new (create+switch to new branch)
 
-..*git add .
+* git add .
 ... git commit -m "add dev.md"
 ... git push -u origin dev
 

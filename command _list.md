@@ -1,7 +1,9 @@
 ﻿## Recovery
-* git checkout test.txt discard edit
-* git reset HEAD test.txt discard add
-* git reset --soft "HEAD^" discard commit
+''''
+* git checkout test.txt (discard edit)
+* git reset HEAD test.txt (discard add)
+* git reset --soft "HEAD^" (discard commit)
+''''
 ## Stash
 * git add .
 * git stash (hide your update)

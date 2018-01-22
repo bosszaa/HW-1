@@ -36,14 +36,14 @@ cteate 2 new branch (dev,feature)⋅⋅
 ``````
 ----
 ## Switch to branch master:
+``````
+$ git merge --no-ff dev
+$ git merge --no-ff feature
 
-...git merge --no-ff dev
-...git merge --no-ff feature
-----
-...git rm test.txt (delete file, after commit)
-
+$ git rm test.txt (delete file, after commit)
+``````
 
 ### การดึงข้อมูลจาก Repository มายัง Local
-````````
+``````
 git pull 
-```
+``````
